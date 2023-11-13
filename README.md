@@ -1,3 +1,14 @@
+笔记
+
+[安装chrome](https://blog.csdn.net/qq_41159150/article/details/118527773#:~:text=1.ubuntu%20server%20%E7%89%88%E6%9C%AC%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%89%E8%A3%85chrome%20sudo%20apt-get%20install%20libxss1%20libappindicator1,apt-get%20install%20-f%20google-chrome%20--version%20%23%20%E6%9F%A5%E7%9C%8B%E7%89%88%E6%9C%AC%201)
+
+[chrome drive](https://googlechromelabs.github.io/chrome-for-testing/)
+
+[Selenium chrome drive executable path](https://stackoverflow.com/questions/76802588/python-selenium-unexpected-keyword-argument-executable-path#:~:text=TypeError%3A%20WebDriver.__init__%20%28%29%20got%20an%20unexpected%20keyword%20argument,s%20%3D%20Service%20%28r%27D%3Apathtogeckodriver.exe%27%29%20browser%20%3D%20Firefox%20%28service%3Ds%29)
+
+
+---
+
 No longer maintained. I no longer have GPU to run language models, someone else should fork and continue development.
 # web_search
  Web search extension for [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
